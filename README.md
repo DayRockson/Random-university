@@ -1,3 +1,7 @@
+A fully responsive university website using React and React Router
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
