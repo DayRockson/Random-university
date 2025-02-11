@@ -9,7 +9,7 @@ function Research () {
             </p>
             <div className="research-container">
             <div className="research-cell">
-                <img src="src/assets/images/textbook.jpg" alt="an open textbook"/>
+                <img src="/images/textbook.jpg" alt="an open textbook"/>
                 <div>
                 <h3>Research excellence</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure ullam expedita repudiandae. Suscipit, iusto! Sunt facere laboriosam neque officia vitae, possimus voluptates ipsum odio! Alias quaerat facilis aut commodi esse.</p>
@@ -18,7 +18,7 @@ function Research () {
             </div>  
             <hr />
             <div className="research-cell">
-                <img src="src/assets/images/research.jpg" alt="a laboratory set-up"/>
+                <img src="/images/research.jpg" alt="a laboratory set-up"/>
                 <div>
                 <h3>Research Support and Resources</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum labore numquam alias. Velit, iusto. Non assumenda tenetur accusantium, cupiditate mollitia enim ipsum, veritatis atque vitae commodi corrupti consectetur aut labore!</p>
@@ -27,7 +27,7 @@ function Research () {
             </div>   
             <hr /> 
             <div className="research-cell">
-                <img src="src/assets/images/man-lecturing.jpg" alt="a man giving a presentation"/>
+                <img src="/images/man-lecturing.jpg" alt="a man giving a presentation"/>
                 <div>
                 <h3>Partner with RU Research</h3>
                 <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Maiores aliquam laboriosam voluptas sit veniam officia rerum ipsum. Tenetur, rerum perferendis distinctio magni, quam minus, quia sed et accusantium illum nulla?</p>
@@ -36,7 +36,7 @@ function Research () {
             </div>
             <hr />
             <div className="research-cell">
-                <img src="src/assets/images/research2.jpg"/>
+                <img src="/images/research2.jpg"/>
                 <div>
                 <h3>Innovation and Incubation</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem laborum commodi ipsam accusantium fuga sapiente ea maxime voluptates necessitatibus. Maiores architecto eveniet odio, odit qui numquam fugiat! Voluptatum, laboriosam officiis!</p>
@@ -45,7 +45,7 @@ function Research () {
             </div> 
             <hr /> 
             <div className="research-cell">
-                <img src="src/assets/images/research3.jpg" alt="a woman observing a microscope"/>
+                <img src="/images/research3.jpg" alt="a woman observing a microscope"/>
                 <div>
                 <h3>Research Funding and Statistics</h3>
                 <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Saepe repudiandae sint cumque error dolorum hic, nostrum nulla. Blanditiis, ad? Consequuntur fuga asperiores veniam eos accusamus vel labore cumque, officia odit?</p>

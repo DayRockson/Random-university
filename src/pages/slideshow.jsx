@@ -2,75 +2,75 @@ import React, { useState, useEffect, useRef } from "react";
 
 const images = [
     {
-        src: "src/assets/images/campus2.jpg",
+        src: "/images/campus2.jpg",
         alt: "A view of a red brick building"
     },
     {
-        src: "src/assets/images/campus.jpg",
+        src: "/images/campus.jpg",
         alt: "A campus view"
     },
     {
-        src: "src/assets/images/lecture-hall.jpg",
+        src: "/images/lecture-hall.jpg",
         alt: "An empty lecture hall"
     },
     {
-        src: "src/assets/images/library.jpg",
+        src: "/images/library.jpg",
         alt: "A library full of students studying"
     },
     {
-        src: "src/assets/images/cafeteria.jpg",
+        src: "/images/cafeteria.jpg",
         alt: "An empty cafeteria"
     },
     {
-        src: "src/assets/images/dorm.jpg",
+        src: "/images/dorm.jpg",
         alt: "Two ladies settling into their dorm room"
     },
     {
-        src: "src/assets/images/dorm2.jpg",
+        src: "/images/dorm2.jpg",
         alt: "Two ladies with moving boxes"
     },
     {
-        src: "src/assets/images/dorm3.jpg",
+        src: "/images/dorm3.jpg",
         alt: "A group of friends in their dorm room"
     },
     {
-        src: "src/assets/images/campus4.jpg",
+        src: "/images/campus4.jpg",
         alt: "A sunset view of the campus"
     },
     {
-        src: "src/assets/images/campus3.jpg",
+        src: "/images/campus3.jpg",
         alt: "An inside view of a campus building"
     },
     {
-        src: "src/assets/images/campus5.jpg",
+        src: "/images/campus5.jpg",
         alt: "Students outside a campus building"
     },
     {
-        src: "src/assets/images/landscape.jpg",
+        src: "/images/landscape.jpg",
         alt: "A view of campus landscape"
     },
     {
-        src: "src/assets/images/landscape2.jpg",
+        src: "/images/landscape2.jpg",
         alt: "An evening view of the campus"
     },
     {
-        src: "src/assets/images/research4.jpg",
+        src: "/images/research4.jpg",
         alt: "Two students observing an experiment under microscope"
     },
     {
-        src: "src/assets/images/lecture-hall2.jpg",
+        src: "/images/lecture-hall2.jpg",
         alt: "A lecture hall full of students"
     },
     {
-        src: "src/assets/images/library3.jpg",
+        src: "/images/library3.jpg",
         alt: "Students walking in a library"
     },
     {
-        src: "src/assets/images/robotics4.jpg",
+        src: "/images/robotics4.jpg",
         alt: "A female student working on a robot"
     },
     {
-        src: "src/assets/images/students.jpg",
+        src: "/images/students.jpg",
         alt: "Students walking across campus"
     },
   

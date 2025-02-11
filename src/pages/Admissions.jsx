@@ -3,7 +3,7 @@ function Admissions () {
         <>
             <div id="admissions">
                 <h1>Admissions</h1>
-                <img src="src/assets/images/group-of-students.jpg" alt="a happy group of students"/>
+                <img src="/images/group-of-students.jpg" alt="a happy group of students"/>
                 <p>
                 At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum 
                 deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, 
