@@ -108,7 +108,7 @@ body {
 }
 
 .intro {
-  background-image: url(assets/images/overview.jpg);
+  background-image: url(/images/overview.jpg);
   height: 400px;
   position: relative;
 }

@@ -1,6 +1,5 @@
 import React, { useState, useEffect, useRef } from "react";
 
-// Replace with your image URLs or import images
 const images = [
     {
         src: "src/assets/images/campus2.jpg",
@@ -82,7 +81,7 @@ const Slideshow = () => {
     const [currentIndex, setCurrentIndex] = useState(0);
     const intervalRef = useRef(null); // Ref to store interval ID
   
-    // Function to start the interval
+    
     const startInterval = () => {
       intervalRef.current = setInterval(() => {
         setCurrentIndex((prevIndex) => (prevIndex + 1) % images.length);
@@ -99,13 +98,13 @@ const Slideshow = () => {
     const goToNext = () => {
       setCurrentIndex((prevIndex) => (prevIndex + 1) % images.length);
       clearInterval(intervalRef.current); // Clear the previous interval
-      startInterval(); // Restart the interval
+      startInterval(); 
     };
   
     const goToPrevious = () => {
       setCurrentIndex((prevIndex) => (prevIndex - 1 + images.length) % images.length);
       clearInterval(intervalRef.current); // Clear the previous interval
-      startInterval(); // Restart the interval
+      startInterval(); 
     };
   
 

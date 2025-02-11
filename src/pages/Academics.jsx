@@ -4,7 +4,7 @@ function Academics () {
         <>
             <div id="academics">
                 <h1>Academics</h1>
-                <img src="src/assets/images/student-and-math.jpg" alt="a female student in front of a white board filled with mathematical equations"/>
+                <img src="/images/student-and-math.jpg" alt="a female student in front of a white board filled with mathematical equations"/>
                 <p>
                 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
                 totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto 
